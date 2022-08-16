@@ -22,8 +22,8 @@ function chillHop() {
             active: false,
         },
         {
-            name:"Play Radio Hit 90s",
-            artist: "Dance",
+            name:"Play Radio Hit",
+            artist: "90s Dance",
             cover: "https://manuappshome.files.wordpress.com/2022/05/play-radio-hit-90s.png",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
@@ -31,8 +31,8 @@ function chillHop() {
             active: false,
         },
         {
-            name:"Gherla FM Eurodance",
-            artist: "Dance",
+            name:"Gherla FM",
+            artist: "EuroDance",
             cover: "https://manuappshome.files.wordpress.com/2022/05/gherla-fm-eurodance.png",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
