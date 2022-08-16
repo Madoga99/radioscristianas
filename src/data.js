@@ -22,6 +22,15 @@ function chillHop() {
             active: false,
         },
         {
+            name:"Soundstorm - Relax Radio",
+            artist: "Lounge",
+            cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
+            id: uuidv4(),
+            color: ["#D7B0D5", "#CBDFE0"],
+            audio: "https://mp3.chillhop.com/serve.php/?mp3=22794",
+            active: false,
+        },
+        {
             name:"SomaFM Left Coast 70's",
             artist: "70's",
             cover: "https://png.pngtree.com/png-vector/20190726/ourlarge/pngtree-modern-square-cool-music-for-party-lights-png-image_1629696.jpg",
