@@ -1014,7 +1014,7 @@ function chillHop() {
         {
             name:"Holiday Gym Radio",
             artist: "Electro Dance",
-            cover: "https://manuappshome.files.wordpress.com/2019/10/holiday-gym-radio.png,
+            cover: "https://manuappshome.files.wordpress.com/2019/10/holiday-gym-radio.png",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "http://holidaygym.emitironline.com/",
