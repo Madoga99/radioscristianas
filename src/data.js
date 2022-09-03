@@ -5,7 +5,7 @@ function chillHop() {
 
         {
             name:"Radio Rock On EEUU",
-            artist: "Rock",
+            artist: "Christian Radios",
             cover: "https://manuappshome.files.wordpress.com/2022/05/radio-rock-on.png",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
@@ -14,7 +14,7 @@ function chillHop() {
         },
         {
             name:"Bandit Rock Stockholm",
-            artist: "Rock",
+            artist: "CHRISTIAN RADIO",
             cover: "https://manuappshome.files.wordpress.com/2019/09/bandit-rock-stockholm-106-3-alternativa-hard-rock.png",
             id: uuidv4(),
             color: ["#D7B0D5", "#CBDFE0"],
