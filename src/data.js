@@ -63,16 +63,7 @@ function chillHop() {
             cover: "https://manuappshome.files.wordpress.com/2022/05/radio-renasterea.png",
             id: uuidv4(),
             color: ["#578CCE", "#E9D6D0"],
-            audio: "https://rlive.radiorenasterea.ro/;stream.mp3?_=1",
-            active: false,
-        },
-        {
-            name:"Radio Trinitas",
-            artist: "Christian Radios",
-            cover: "https://manuappshome.files.wordpress.com/2022/05/radio-trinitas.png",
-            id: uuidv4(),
-            color: ["#191516", "#82698E"],
-            audio: "http://live.radiotrinitas.ro:8003/;",
+            audio: "https://rlive.radiorenasterea.ro/;stream.mp3",
             active: false,
         },
         {
@@ -162,7 +153,7 @@ function chillHop() {
             cover: "https://manuappshome.files.wordpress.com/2019/10/n-star-93-3-wakw.png",
             id: uuidv4(),
             color: ["#1D2731", "#F17E76"],
-            audio: "https://22213.live.streamtheworld.com/WAKWFMAAC.aac",
+            audio: "https://pillar2.streamguys1.com/live",
             active: false,
         },
         {
@@ -256,12 +247,12 @@ function chillHop() {
             active: false,
         },
         {
-            name:"Radio Cristiana Josue",
+            name:"Radio Evangelica Josue",
             artist: "Christian Radios",
-            cover: "https://manuappshome.files.wordpress.com/2019/10/radio-cristiana-josue-en-tunein.png",
+            cover: "https://manuappshome.files.wordpress.com/2022/09/radio-evangelica-josue.png",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "http://enfoquescreativos.com:8010/stream",
+            audio: "https://panel.yupistream.com/proxy/ysjosue/stream",
             active: false,
         },
         {
@@ -315,7 +306,7 @@ function chillHop() {
             cover: "https://manuappshome.files.wordpress.com/2019/10/rc3a0dio-estel-106-6-fm-mc3basica-cristiana-discusic3b3n.png",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "https://srv7021.dns-lcinternet.com:8020/stream",
+            audio: "https://srv6021.dns-lcinternet.com:10244/stream",
             active: false,
         },
         {
@@ -378,7 +369,7 @@ function chillHop() {
             cover: "https://manuappshome.files.wordpress.com/2019/10/nueva-radio-cristiana-salvacion-emanuel.png",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "https://node-10.zeno.fm/5eutpwek2wzuv",
+            audio: "https://stream-43.zeno.fm/5eutpwek2wzuv",
             active: false,
         },
          {
@@ -387,7 +378,7 @@ function chillHop() {
             cover: "https://manuappshome.files.wordpress.com/2019/10/radio-life-a7d.png",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "https://node-28.zeno.fm/nsw56m12mceuv",
+            audio: "https://radio.abdicar.com/proxy/internacionales/stream",
             active: false,
         },
          {
@@ -432,7 +423,7 @@ function chillHop() {
             cover: "https://manuappshome.files.wordpress.com/2019/10/radio-vea.png",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "https://ce.redconnections.net:8012/stream",
+            audio: "https://ss.redradios.net:8052/stream",
             active: false,
         },
         {
@@ -441,7 +432,7 @@ function chillHop() {
             cover: "https://manuappshome.files.wordpress.com/2019/10/radio-consejero-fiel.png",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "https://node-06.zeno.fm/e7w8u2zvm8quv",
+            audio: "https://stream-17.zeno.fm/e7w8u2zvm8quv",
             active: false,
         },
         {
@@ -486,7 +477,7 @@ function chillHop() {
             cover: "https://manuappshome.files.wordpress.com/2019/10/emisora-siempre-cristo.png",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "http://node-22.zeno.fm/fvrx47wpg0quv",
+            audio: "http://streaming.radionomy.com/JamendoLounge",
             active: false,
         },
         {
@@ -496,15 +487,6 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://server.radiogs.net:7139/;",
-            active: false,
-        },
-        {
-            name:"Instrumental de Radios Frater",
-            artist: "Christian Radios",
-            cover: "https://manuappshome.files.wordpress.com/2019/10/instrumental-de-radios-frc3a1ter.png",
-            id: uuidv4(),
-            color: ["#008781", "#cfc08c"],
-            audio: "https://ce.redconnections.net:8005/stream",
             active: false,
         },
         {
@@ -522,7 +504,7 @@ function chillHop() {
             cover: "https://manuappshome.files.wordpress.com/2019/10/filipenses-4-13-radio-cristiana.png",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "http://node-20.zeno.fm/7ynu8f0yzbruv",
+            audio: "http://198.148.103.200:8056/;",
             active: false,
         },
         {
@@ -540,7 +522,7 @@ function chillHop() {
             cover: "https://manuappshome.files.wordpress.com/2019/10/eventos-catc3b3licos-radio.png",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "http://node-03.zeno.fm/1g9cduy10bruv",
+            audio: "https://stream-32.zeno.fm/1g9cduy10bruv",
             active: false,
         },
         {
